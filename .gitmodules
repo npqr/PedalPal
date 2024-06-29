@@ -1,0 +1,6 @@
+[submodule "PedalPal-frontend"]
+	path = PedalPal-frontend
+	url = https://github.com/npqr/PedalPal-frontend
+[submodule "PedalPal-backend"]
+	path = PedalPal-backend
+	url = https://github.com/npqr/PedalPal-backend
